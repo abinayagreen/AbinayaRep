@@ -6,6 +6,8 @@ public class GItPush {
 		// TODO Auto-generated method stub
 		
 		System.out.println("updating existing code");
+		System.out.println("Abin updating code after conflict");
+
 
 	}
 
